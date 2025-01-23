@@ -2,4 +2,4 @@
 
 See more about VnG Blue Hugo theme [here](https://github.com/ismd/hugo-theme-vng-blue).
 
-Deployed demo website is [here](<FIXME>).
+Deployed demo website is [here](https://ismd.github.io/demo-hugo-theme-vng-blue/).
