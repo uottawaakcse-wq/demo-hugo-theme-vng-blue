@@ -1,0 +1,42 @@
+baseURL = '<FIXME>'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = 'vng-blue'
+[[menus.main]]
+  name = "Home"
+  pageRef = "/"
+  weight = 10
+[[menus.main]]
+  name = "Posts"
+  pageRef = "/posts"
+  weight = 20
+[[menus.main]]
+  name = "Categories"
+  pageRef = "/categories"
+  weight = 30
+[[menus.main]]
+  name = "Tags"
+  pageRef = "/tags"
+  weight = 40
+[[menus.main]]
+  name = "About"
+  pageRef = "/about"
+  weight = 50
+[params]
+  [params.social]
+    youtube = "https://youtube.com/"
+    github = "https://github.com/"
+    telegram = "https://telegram.org/"
+    twitch = "https://www.twitch.tv/"
+    discord = "https://discord.com/"
+  homeToBlogText = "To&nbsp;blog"
+  sidebarDescription = "Hello, friend! This is&nbsp;my&nbsp;personal blog about modern technologies and useful utilities."
+  mailMeText = "Mail&nbsp;me"
+  categoriesToPostsText = "to&nbsp;posts"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+  [markup.highlight]
+    style = "friendly"
