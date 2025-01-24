@@ -1,4 +1,3 @@
-baseURL = 'https://ismd.github.io/demo-hugo-theme-vng-blue/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'vng-blue'
