@@ -1,17 +1,15 @@
 +++
-title = "Post with all the features and examples"
-summary = "This is the first post in the series of articles about configuring Hyprland. I will tell you how I configured the theme, namely the appearance of windows and widgets, the cursor, and icons."
+title = "My third post"
+summary = "This is my third post with Hugo!"
 date = "2025-01-23T10:39:08+01:00"
 draft = false
 categories = [
   "My awesome category"
 ]
 tags = [
-  "first-tag",
-  "second-tag",
   "third-tag",
   "fourth-tag",
-  "fifth-tag"
+  "awesome-tag"
 ]
 +++
 
