@@ -7,8 +7,8 @@ categories = [
   "An alternative category"
 ]
 tags = [
-  "fourth-tag",
-  "fifth-tag"
+  "amazing",
+  "terrific",
 ]
 +++
 

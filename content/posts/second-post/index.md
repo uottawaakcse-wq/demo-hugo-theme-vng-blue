@@ -7,8 +7,8 @@ categories = [
   "My awesome category"
 ]
 tags = [
-  "second-tag",
-  "awesome-tag"
+  "beautiful",
+  "awesome"
 ]
 +++
 
