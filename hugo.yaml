@@ -1,0 +1,61 @@
+baseURL: "https://ismd.github.io/demo-hugo-theme-vng-blue/"
+languageCode: en-US
+title: V&G Blue Hugo Theme Demo
+theme: vng-blue
+
+menus:
+  main:
+    - name: Home
+      pageRef: /
+      weight: 10
+    - name: Posts
+      pageRef: /posts
+      weight: 20
+    - name: Categories
+      pageRef: /categories
+      weight: 30
+    - name: Tags
+      pageRef: /tags
+      weight: 40
+    - name: About
+      pageRef: /about
+      weight: 50
+
+params:
+  social:
+    discord: "https://discord.com/"
+    email: "mailto:"
+    facebook: "https://facebook.com/"
+    github: "https://github.com/ismd"
+    googleDrive: "https://drive.google.com/"
+    instagram: "https://instagram.com/"
+    linkedin: "https://linkedin.com/"
+    medium: "https://medium.com/"
+    netflix: "https://netflix.com/"
+    paypal: "https://paypal.com/"
+    pinterest: "https://pinterest.com/"
+    podcast: "https://podcast.com/"
+    quora: "https://quora.com/"
+    reddit: "https://reddit.com/"
+    signal: "https://signal.org/"
+    snapchat: "https://snapchat.com/"
+    spotify: "https://spotify.com/"
+    substack: "https://substack.com/"
+    telegram: "https://t.me/"
+    threads: "https://threads.net/"
+    tiktok: "https://tiktok.com/"
+    tumblr: "https://tumblr.com/"
+    twitch: "https://twitch.tv/"
+    viber: "https://viber.com/"
+    vimeo: "https://vimeo.com/"
+    vk: "https://vk.com/"
+    wechat: "https://wechat.com/"
+    whatsapp: "https://whatsapp.com/"
+    x: "https://x.com/"
+    youtube: "https://www.youtube.com/@CodingOverhead"
+
+  homeEventEnabled: false
+  homeToBlogText: "To&nbsp;blog"
+  description: "Hello! This is&nbsp;my&nbsp;personal blog about modern technologies and useful utilities."
+  mailMeText: "Mail&nbsp;me"
+  categoriesToPostsText: "to&nbsp;posts"
